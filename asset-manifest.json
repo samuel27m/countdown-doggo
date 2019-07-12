@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/countdown-doggo/static/js/main.83becbbb.chunk.js",
+    "main.js.map": "/countdown-doggo/static/js/main.83becbbb.chunk.js.map",
+    "runtime~main.js": "/countdown-doggo/static/js/runtime~main.bb1f20a0.js",
+    "runtime~main.js.map": "/countdown-doggo/static/js/runtime~main.bb1f20a0.js.map",
+    "static/js/2.63d82b22.chunk.js": "/countdown-doggo/static/js/2.63d82b22.chunk.js",
+    "static/js/2.63d82b22.chunk.js.map": "/countdown-doggo/static/js/2.63d82b22.chunk.js.map",
+    "index.html": "/countdown-doggo/index.html",
+    "precache-manifest.2c73f35cd23c832f8fcee5a8576d56da.js": "/countdown-doggo/precache-manifest.2c73f35cd23c832f8fcee5a8576d56da.js",
+    "service-worker.js": "/countdown-doggo/service-worker.js"
+  }
+}
