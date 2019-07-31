@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/countdown-doggo/precache-manifest.2c73f35cd23c832f8fcee5a8576d56da.js"
+  "/countdown-doggo/precache-manifest.63a55257a4ef791a40ec6c83ec04681f.js"
 );
 
 self.addEventListener('message', (event) => {
