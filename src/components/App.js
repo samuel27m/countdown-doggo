@@ -30,9 +30,9 @@ const renderer = ({ hours, minutes, seconds, completed }) => {
             <div>
                 <h1 className="cover-heading">
                     <span role="img" aria-label="emoji">🎉</span>
-                    Eevee is coming home
-                    <span role="img" aria-label="emoji">🎉</span>
-                </h1>
+                    <span className="cover-heading">Eevee is coming home</span>
+                    <span role="img" aria-label="emoji">🎉</span></h1>
+
                 <h2 className="font-weight-bold">{zeroPad(hours)}:{zeroPad(minutes)}:{zeroPad(seconds)}</h2>
             </div>
         );
@@ -40,8 +40,7 @@ const renderer = ({ hours, minutes, seconds, completed }) => {
 };
 
 export default function App() {
-    // const date = Date.now() + 5000;
-    const date = new Date(2019, 7, 13, 14, 0);
+    const date = new Date('2019/07/13 14:00');
 
     return (
         <div className="cover-container d-flex h-100 p-3 mx-auto flex-column">
